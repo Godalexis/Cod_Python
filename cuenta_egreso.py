@@ -16,3 +16,4 @@ class Egreso:
             self.frecuencia = nueva_frecuencia
         else:
             raise ValueError("Frecuencia no válida. Debe ser: anual, mensual, quincenal, semanal, diario o indefinido.")
+
