@@ -1,4 +1,5 @@
 from ingreso import pedir_datos_ingreso, Ingreso
+from egreso import pedir_datos_egreso, Egreso
 
 class App:
     def __init__(self):
@@ -32,4 +33,9 @@ class App:
         print(f"Frecuencia: {ingreso.frecuencia}")
 
     def crear_egreso(self):
-        print(">> Función para crear un egreso")
+        egreso = pedir_datos_egreso()  
+        self.egresos.append(egreso)    
+        print("\nEgreso registrado correctamente:")  
+        print(f"Concepto: {egreso.concepto}")        
+        print(f"Monto: {egreso.monto}")              
+        print(f"Categoría: {egreso.categoria}") 
