@@ -1,0 +1,3 @@
+nombre:Alexis#edad:29#ciudad:Buenos Aires
+nombre:Luis#edad:99#ciudad:Misiones
+nombre:Luis#edad:99#ciudad:Misiones
