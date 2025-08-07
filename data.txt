@@ -1,3 +1,8 @@
 nombre:Alexis#edad:29#ciudad:Buenos Aires
 nombre:Luis#edad:99#ciudad:Misiones
 nombre:Luis#edad:99#ciudad:Misiones
+nombre:Lucas#edad:25#ciudad:Corrientes
+nombre:Lucas#edad:25#ciudad:Corrientes
+nombre:Carlos#edad:45#ciudad:Misiones
+nombre:Carlos#edad:45#ciudad:Misiones
+nombre:Juan#edad:28#ciudad:Jujuy
